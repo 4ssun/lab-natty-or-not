@@ -16,7 +16,9 @@
 Bing Copilot, OpenAI ChatGPT e Engage AI.
 
 ## 🧐 Processo de Criação
-Possuo como etapa da minha rotina matinal checar meus emails e novos posts do Linkedin, buscando novidades sobre meus contatos e também sobre a minha área de atuação, desde Janeiro tenho observado o fenômeno de respostas genéricas com padrão de escrita de resposta de IAs Generativas, e ultimamente vem se tornando cada vez mais frequente esses eventos. Com o desafio da DIO de criarmos um conteúdo que desafie a noção de IA ou Natural agora elaboro o desafio de volta: Meu conteúdo possui três capítulos escritos completamente por IAs e por IAs diferentes! Consegue apontar quais capítulos são esses?
+Possuo como etapa da minha rotina matinal checar meus emails e novos posts do Linkedin, buscando novidades sobre meus contatos e também sobre a minha área de atuação, desde Janeiro tenho observado o fenômeno de respostas genéricas com padrão de escrita de resposta de IAs Generativas, e ultimamente vem se tornando cada vez mais frequente esses eventos. Com o desafio da DIO de criarmos um conteúdo que desafie a noção de IA ou Natural agora elaboro o desafio de volta:<h3> Meu conteúdo possui três capítulos escritos completamente por IAs e por IAs diferentes! Consegue apontar quais capítulos são esses?
+</h3>
+
 
 ## 🚀 Resultados
-Meus resultados foram uma observação fácil e com poucos minutos de pesquisa já consegui colher cinco printscreens que comprovam o que ponderei, sobre se tratar de uma interação gerada por um prompt, todas as respostas printadas que estão na aba <strong> exemplos </strong> foram dadas às postagens que eram escritas de forma bem autoexplicativa, sem necessidade de respostas e devolutivas tão rabuscadas e retornando de forma repetitiva a pauta abordada.
+Meus resultados foram uma observação fácil e com poucos minutos de pesquisa já consegui colher cinco printscreens que comprovam o que ponderei, sobre se tratar de uma interação gerada por um prompt, todas as respostas printadas são os arquivos chamados de<strong> Lkd01-05 </strong> foram dadas às postagens que eram escritas de forma bem autoexplicativa, sem necessidade de respostas e devolutivas tão rabuscadas e retornando de forma repetitiva a pauta abordada.
