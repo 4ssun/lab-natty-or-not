@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O uso das IAs Generativas no Networking
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+<p>A Inteligência Artificial Generativa atua diretamente sobre os conteúdos que mais somos impactados durante o dia e revolucionou a forma com que produzimos, consumimos e distribuímos conteúdos, sejam eles textos, códigos ou imagens. O nome de fácil recorrência à memória quando falamos nesse tópico é o ChatGPT, que recebe milhões de acessos diariamente e já virou uma ferramenta de produtividade de devs e outros profissionais do ramo da tecnologia. Mas também podemos empregar essa natureza de IA a outros tópicos que são tão importantes quanto a produtividade, como: <strong>O Networking</strong>!</p>
+<p>Em resumo, o networking é uma ferramenta estratégica para o crescimento e o sucesso no mundo dos negócios, permitindo que os profissionais construam relacionamentos significativos, explorem oportunidades e se mantenham atualizados em um mercado dinâmico e em constante evolução.</p>
+<p>Ligado a isso, o LinkedIn se destaca como uma plataforma essencial para profissionais em busca de oportunidades de emprego e crescimento profissional. Além de servir como um vasto banco de oportunidades de trabalho, o LinkedIn oferece aos usuários a capacidade de publicar artigos, compartilhar conhecimento e divulgar materiais de estudo, ampliando sua visibilidade e credibilidade no mercado. Os artigos publicados permitem que os usuários demonstrem sua expertise e se posicionem como líderes em suas áreas, enquanto a divulgação de materiais de estudo facilita o acesso a recursos educacionais relevantes. Em suma, o LinkedIn não apenas conecta profissionais a oportunidades de emprego, mas também é uma ferramenta poderosa para construir reputação, compartilhar conhecimento e expandir redes profissionais.</p> 
+<p>Com a popularização das ferramentas de IA Generativa, bastou uma conta criada para que as pessoas pudessem executar seus prompts e irem aprimorando conforme a necessidade de lapidação dos resultados obtidos, uma vez que usadas para produtividade, por quê não a utilizar para realizar um trabalho que iria requerir um tempo de leitura, reflexão e feedback quando feito manualmente? Ainda que as IAs Generativas tenham evoluído com passos largos, ainda nos deparamos com situações que conseguimos afirmar se tratar de um texto gerado por um computador e também com situações que ficamos em dúvidas se realmente é o caso. Porém, quero que reflitam:
+    <br>
+    <strong>Sabendo das vantagens do Networking e do Linkedin, utilizar de IAs Generativas para automatizar essa interação ainda é sobre produtividade ou comodidade?
+    </strong>
+</p>
+<p>Não é difícil observarmos posts de recrutadores, ou pessoas divulgando seus artigos, cursos ou oportunidades de aprimoramento e encontrarmos mensagens de usuários que nos colocam naquele pensamento de:"Isso me cheira a prompt de IA", e inclusive existe uma ferramenta generativa pensada justamente no cenário de engajar em posts do linkedin, que é a <strong>Engage AI</strong>, porém a reflexão entre a situação de produtividade e comodidade tem como enfoque até que ponto vai uma e começa a outra, é produtividade por tempo poupado? Como esse tempo poupado foi utilizado posteriormente? Produtividade por maior número de posts que o usuário teve interações? Porém essas interações refletiram o real interesse daquela pessoa, se aquele post foi útil, engraçado ou relevante para ela de fato? Ponderar entre esses dois pontos trás uma reflexão bem interessante para nós que somos da área da tecnologia e como citado previamente, é uma das áreas mais dependentes de um networking em algum momento da carreira.
+</p>
+    
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Bing Copilot, OpenAI ChatGPT e Engage AI.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Possuo como etapa da minha rotina matinal checar meus emails e novos posts do Linkedin, buscando novidades sobre meus contatos e também sobre a minha área de atuação, desde Janeiro tenho observado o fenômeno de respostas genéricas com padrão de escrita de resposta de IAs Generativas, e ultimamente vem se tornando cada vez mais frequente esses eventos. Com o desafio da DIO de criarmos um conteúdo que desafie a noção de IA ou Natural agora elaboro o desafio de volta: Meu conteúdo possui três capítulos escritos completamente por IAs e por IAs diferentes! Consegue apontar quais capítulos são esses?
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Meus resultados foram uma observação fácil e com poucos minutos de pesquisa já consegui colher cinco printscreens que comprovam o que ponderei, sobre se tratar de uma interação gerada por um prompt, todas as respostas printadas que estão na aba <strong> exemplos </strong> foram dadas às postagens que eram escritas de forma bem autoexplicativa, sem necessidade de respostas e devolutivas tão rabuscadas e retornando de forma repetitiva a pauta abordada.
